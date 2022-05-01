@@ -8,6 +8,7 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="bf3e57c7-0dc7-4b1f-be22-0c45c0c341fa"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="6c72664a-7300-4c69-a3e3-d03a7c35a978"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="651578b1-604e-45c4-b783-108286972934"/>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
@@ -25,6 +26,7 @@
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.21</compatibilityMode>
   <languages uuid="a41daa91-6e91-43d2-89cb-1b62cc9a9644">
     <name>Русский</name>
     <synonym>
@@ -33,4 +35,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.Номенклатура</catalogs>
 </mdclass:Configuration>
