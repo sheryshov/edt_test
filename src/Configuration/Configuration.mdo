@@ -35,5 +35,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Торговля</subsystems>
+  <roles>Role.ПолныеПрава</roles>
   <catalogs>Catalog.Номенклатура</catalogs>
 </mdclass:Configuration>
