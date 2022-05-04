@@ -38,4 +38,6 @@
   <subsystems>Subsystem.Торговля</subsystems>
   <roles>Role.ПолныеПрава</roles>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <documents>Document.ПриходнаяНакладная</documents>
 </mdclass:Configuration>
